@@ -37,16 +37,3 @@ void test_vaccine_status(void) {
   TEST_ASSERT_EQUAL(2, vaccine_status(1)); // Fail condition
 }
 
-© 2021 GitHub, Inc.
-Terms
-Privacy
-Security
-Status
-Docs
-Contact GitHub
-Pricing
-API
-Training
-Blog
-About
-Loading complete
