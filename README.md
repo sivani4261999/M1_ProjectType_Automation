@@ -1,5 +1,7 @@
 # M1_ProjectType_Automation
 
+[![Codacy Badge](https://api.codacy.com/project/badge/Grade/26262ca2e60841d3af5c364e61691095)](https://app.codacy.com/gh/sivani4261999/M1_ProjectType_Automation?utm_source=github.com&utm_medium=referral&utm_content=sivani4261999/M1_ProjectType_Automation&utm_campaign=Badge_Grade_Settings)
+
 ## Aim
 * Smoother vaccination registration process
 * Reduced data traffic in the main server
