@@ -17,3 +17,9 @@
 ## Output
 * Vaccinated data log is updated and new registrations are added to the end of the pre data list
 * List of vaccinated patients along with total vials consumed is printed
+## Learning Resources
+1. [markdownCheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
+2. [markdownBasics](https://guides.github.com/features/mastering-markdown/)
+3. [git inspector](https://github.com/ejwa/gitinspector.git)
+4. [github workflow](https://docs.github.com/en/actions/learn-github-action)
+
