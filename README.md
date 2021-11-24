@@ -5,7 +5,7 @@
  # unit testing ![Unit Testing - Unity](https://github.com/sivani4261999/M1_ProjectType_Automation/actions/workflows/unity.yml/badge.svg)
  # CI/CD ![CI](https://github.com/sivani4261999/M1_ProjectType_Automation/actions/workflows/main.yml/badge.svg)
  # linus os ![linux os build](https://github.com/sivani4261999/M1_ProjectType_Automation/actions/workflows/c-build.yml/badge.svg) 
- # cppcheck [![cppcheck](https://github.com/sivani4261999/M1_ProjectType_Automation/actions/workflows/cppcheck.yml/badge.svg)
+ # cppcheck ![cppcheck](https://github.com/sivani4261999/M1_ProjectType_Automation/actions/workflows/cppcheck.yml/badge.svg)
 
 
 
